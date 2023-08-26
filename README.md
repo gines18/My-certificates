@@ -1,10 +1,15 @@
 # My-certificates
 
-
 <img src="https://github.com/gines18/My-certificates/assets/60331349/dafcd2b5-ba22-453b-a80c-848f1f54e7a6"/>
 
 Verify this certification at:
 https://skillsbootcamp.credential.getsmarter.com/e753aef8-8d6c-464c-a1d4-9c5af777fc7c#gs.4x49o4
+
+<hr>
+
+<img src="https://github.com/gines18/My-certificates/blob/main/Certificate/Screenshot%202023-08-26%20at%2022.43.42.png?raw=true"/>
+Verify this certification at
+https://coursera.org/share/71f2aec7c14efcdf60e10dd265d8b377
 
 <hr>
 

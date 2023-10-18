@@ -5,15 +5,24 @@
 Verify this certification at:
 https://skillsbootcamp.credential.getsmarter.com/e753aef8-8d6c-464c-a1d4-9c5af777fc7c#gs.4x49o4
 
+<hr>
+
+<img src="https://github.com/gines18/My-certificates/blob/main/Certificate/Screenshot%202023-10-18%20at%2015.44.18.png"/>
+
+Verify this certification at:
+https://skillsbootcamp.credential.getsmarter.com/e753aef8-8d6c-464c-a1d4-9c5af777fc7c#gs.4x49o4
+
+<hr> 
 
 <img src="https://github.com/gines18/My-certificates/blob/main/Certificate/Screenshot%202023-09-07%20at%2013.48.36.png?raw=true"/>
+
 Verify this certification at:
 https://www.coursera.org/account/accomplishments/verify/78WZBSLKT9YJ
-
 
 <hr>
 
 <img src="https://github.com/gines18/My-certificates/blob/main/Certificate/Screenshot%202023-08-26%20at%2022.43.42.png?raw=true"/>
+
 Verify this certification at
 https://coursera.org/share/71f2aec7c14efcdf60e10dd265d8b377
 

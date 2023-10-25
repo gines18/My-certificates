@@ -7,6 +7,13 @@ https://skillsbootcamp.credential.getsmarter.com/e753aef8-8d6c-464c-a1d4-9c5af77
 
 <hr>
 
+<img src="https://github.com/gines18/My-certificates/blob/main/Certificate/Screenshot%202023-10-25%20at%2012.48.19.png"/>
+
+Verify this certification at:
+https://courses.cognitiveclass.ai/certificates/2e85fe49f8234d778ea1a314bf8930fd
+
+<hr>
+
 <img src="https://github.com/gines18/My-certificates/blob/main/Certificate/Screenshot%202023-10-18%20at%2015.55.46.png?raw=true"/>
 
 Verify this certification at:

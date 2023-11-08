@@ -7,6 +7,13 @@ https://skillsbootcamp.credential.getsmarter.com/e753aef8-8d6c-464c-a1d4-9c5af77
 
 <hr>
 
+<img src="https://github.com/gines18/My-certificates/blob/main/Certificate/python.png"/>
+
+Verify this certification at:
+https://www.coursera.org/account/accomplishments/certificate/SP9Q9PS2FJLA
+
+<hr>
+
 <img src="https://github.com/gines18/My-certificates/blob/main/Certificate/Screenshot%202023-10-25%20at%2012.48.19.png"/>
 
 Verify this certification at:

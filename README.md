@@ -6,6 +6,11 @@ Verify this certification at:
 https://skillsbootcamp.credential.getsmarter.com/e753aef8-8d6c-464c-a1d4-9c5af777fc7c#gs.4x49o4
 
 <hr>
+<img src="https://github.com/gines18/My-certificates/blob/main/Certificate/Screenshot%202024-03-20%20at%2016.01.56.png?raw=true"/>
+Verify this certification at:
+https://www.coursera.org/account/accomplishments/verify/CPSUNR7M4ZFB
+
+<hr>
 
 <img src="https://github.com/gines18/My-certificates/blob/main/Certificate/python.png"/>
 

@@ -1,4 +1,8 @@
 # My-certificates
+<img src="https://github.com/gines18/My-certificates/blob/main/Certificate/Screenshot%202024-05-23%20at%2018.31.13.png?raw=true"/>
+Verify this certification at:
+https://coursera.org/share/dbf599a9c487eced569fde729edcc0d7
+<hr>
 
 <img src="https://github.com/gines18/My-certificates/assets/60331349/dafcd2b5-ba22-453b-a80c-848f1f54e7a6"/>
 
